@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.47</version>
+            <version>1.2.83</version>
         </dependency>  <!-- Spring Boot web 开发整合 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
